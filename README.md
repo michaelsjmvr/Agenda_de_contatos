@@ -1,8 +1,11 @@
-# Projeto: Agenda de Contatos em Python com SQLite3 e PySide6
+### Hi, I'm Michael D.🤙
 
-## Autor: Michael Douglas P Lima
-## Contato: michaelsjmvr@hotmail.com
-## LinkedIn: [michael-douglas-640a11180](https://www.linkedin.com/in/michael-douglas-640a11180/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-douglas-640a11180/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michael.douglaspdl/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/MikeeD.Cloud9/)
+
+
+# Projeto: Agenda de Contatos em Python com SQLite3 e PySide6
 
 ## Descrição do Projeto
 Neste projeto, foi desenvolvida uma Agenda de Contatos em Python utilizando as bibliotecas SQLite3 e PySide6. A aplicação permite aos usuários adicionar, pesquisar e excluir contatos, armazenando as informações em um banco de dados SQLite3.
